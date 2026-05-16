@@ -1,0 +1,11 @@
+Journal de bord - Projet Portfolio
+Nom : CIVIL Rodny Samuel
+
+1. Étapes réalisées :
+   - Création du dossier local du projet et initialisation du fichier index.html.
+   - Rédaction de la structure de base HTML5 (doctype, head, body).
+   - Ajout du contenu principal : titre (h1), paragraphe de présentation et liste de compétences.
+   - Organisation des compétences en deux catégories : techniques et administratives pour plus de clarté.
+   - Utilisation des balises sémantiques (header, main, footer) et de mise en forme (b, i, hr, center) pour améliorer le visuel sans utiliser de CSS.
+   - Enregistrement de plusieurs versions du travail pour suivre l'évolution du code.
+   - Création d'un dépôt sur GitHub et envoi (push) des fichiers locaux vers le serveur distant.
